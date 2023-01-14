@@ -1,0 +1,68 @@
+2023-01-14 15:51:14 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 8616 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 15:51:14 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 15:51:18 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 4.369 seconds (process running for 5.518)
+2023-01-14 15:51:24 [http-nio-8080-exec-2] INFO  c.s.a.S.controller.ShapeController - /api/shape
+2023-01-14 15:56:54 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 8536 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 15:56:54 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 15:56:58 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 4.56 seconds (process running for 5.768)
+2023-01-14 15:57:01 [http-nio-8080-exec-2] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape - 404 2023-01-14
+2023-01-14 15:59:32 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 8972 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 15:59:32 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 15:59:36 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 5.175 seconds (process running for 6.381)
+2023-01-14 16:00:18 [http-nio-8080-exec-3] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape - 404 2023-01-14T16:00:18.376918600
+2023-01-14 16:02:55 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 7984 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:02:55 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:02:59 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 4.595 seconds (process running for 5.72)
+2023-01-14 16:02:59 [http-nio-8080-exec-2] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape - 404 {"timestamp:" "2023-01-14T16:02:59.814433400"}
+2023-01-14 16:06:15 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 21256 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:06:15 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:06:19 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 6.289 seconds (process running for 7.754)
+2023-01-14 16:08:40 [http-nio-8080-exec-8] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape - 200 {"timestamp": "2023-01-14T16:08:40.644550400"}
+2023-01-14 16:09:18 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 2080 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:09:18 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:09:23 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 5.491 seconds (process running for 7.031)
+2023-01-14 16:09:51 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 18024 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:09:51 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:09:56 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 5.698 seconds (process running for 7.207)
+2023-01-14 16:11:57 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 21828 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:11:57 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:12:01 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 4.83 seconds (process running for 6.242)
+2023-01-14 16:13:21 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 21860 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:13:21 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:13:25 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 4.788 seconds (process running for 6.193)
+2023-01-14 16:17:46 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 21348 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:17:46 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:17:50 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 5.554 seconds (process running for 7.324)
+2023-01-14 16:19:09 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 22544 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:19:09 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:19:14 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 6.566 seconds (process running for 8.142)
+2023-01-14 16:20:10 [http-nio-8080-exec-4] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape - 200 {"timestamp": "2023-01-14T16:20:10.093914200"}
+2023-01-14 16:20:20 [http-nio-8080-exec-6] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape - 200 {"timestamp": "2023-01-14T16:20:20.822287300"}
+2023-01-14 16:20:35 [http-nio-8080-exec-5] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape - 200 {"timestamp": "2023-01-14T16:20:35.885299600"}
+2023-01-14 16:20:42 [http-nio-8080-exec-9] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape - 200 {"timestamp": "2023-01-14T16:20:42.908218400"}
+2023-01-14 16:23:42 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 8784 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:23:42 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:23:47 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 5.495 seconds (process running for 6.857)
+2023-01-14 16:23:48 [http-nio-8080-exec-1] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape - 200 {"timestamp": "2023-01-14T16:23:48.926072700"}
+2023-01-14 16:23:48 [http-nio-8080-exec-1] ERROR c.s.a.S.controller.ShapeController - No enum constant of type: gg
+2023-01-14 16:24:31 [http-nio-8080-exec-3] ERROR c.s.a.S.controller.ShapeController - error: GET /api/book - 404 {"timestamp": "2023-01-14T16:24:31.148939800"}
+2023-01-14 16:26:04 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 20404 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:26:04 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:26:09 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 5.772 seconds (process running for 7.26)
+2023-01-14 16:26:10 [http-nio-8080-exec-2] ERROR c.s.a.S.controller.ShapeController - error: GET /api/book - 404 {"timestamp": "2023-01-14T16:26:10.615069700"}
+2023-01-14 16:26:42 [http-nio-8080-exec-3] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape org.apache.catalina.util.ParameterMap@722a9d4a - 200 {"timestamp": "2023-01-14T16:26:42.236814500"}
+2023-01-14 16:27:11 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 22836 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:27:11 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:27:16 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 5.546 seconds (process running for 6.963)
+2023-01-14 16:27:25 [http-nio-8080-exec-1] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape org.apache.catalina.util.ParameterMap@7b9e7ddc - 200 {"timestamp": "2023-01-14T16:27:25.214291500"}
+2023-01-14 16:28:55 [http-nio-8080-exec-5] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape org.apache.catalina.util.ParameterMap@42f5e8f9 - 200 {"timestamp": "2023-01-14T16:28:55.880800400"}
+2023-01-14 16:31:16 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 17656 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:31:16 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:31:21 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 5.871 seconds (process running for 7.329)
+2023-01-14 16:31:22 [http-nio-8080-exec-3] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape?type=square - 200 {"timestamp": "2023-01-14T16:31:22.897432300"}
+2023-01-14 16:31:34 [http-nio-8080-exec-1] INFO  c.s.a.S.controller.ShapeController - info: GET /api/shape?type=null - 200 {"timestamp": "2023-01-14T16:31:34.810596500"}
+2023-01-14 16:33:13 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 2480 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 16:33:13 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 16:33:17 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 4.892 seconds (process running for 6.314)
+2023-01-14 16:35:32 [http-nio-8080-exec-5] ERROR c.s.a.S.controller.ShapeController - error: GET /api/book?id=11 - 404 {"timestamp": "2023-01-14T16:35:32.697556"}
+2023-01-14 16:35:48 [http-nio-8080-exec-4] ERROR c.s.a.S.controller.ShapeController - error: GET /api/book?id=11 - 404 {"timestamp": "2023-01-14T16:35:48.105047700"}

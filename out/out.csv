@@ -1,0 +1,6 @@
+type,width,height,radius,area,perimeter
+square,12.5,12.5,n.a,156.25,50
+triangle,4,3.33,n.a,6.66,12.5347
+triangle,5,3.33,n.a,8.325,14.3374
+circle,n.a,n.a,7.6,181.4584,47.7522
+rectangle,10.1,4,n.a,40.4,28.2
